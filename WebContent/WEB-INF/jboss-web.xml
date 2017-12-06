@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+        <context-root>/acx</context-root>
+</jboss-web>
